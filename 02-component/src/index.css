@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Franklin Gothic Medium';
+}
+
+body {
+  background-color: black;
+  color: wheat;
+  height: 100%;
+  width: 100%;
+}
+
+.card {
+  background-color: rgb(240, 45, 78);
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.nav {
+  background-color: lightblue;
+  padding: 20px;
+  margin: 20px;
+  color: black;
+  border-radius: 10px;
+}
