@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aliceblue;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20%;
+}
+
+input,
+button {
+  padding: 10px 20px;
+  margin: 15px;
+  font-size: 15px;
+  background-color: chartreuse;
+  border-radius: 10px;
+}
